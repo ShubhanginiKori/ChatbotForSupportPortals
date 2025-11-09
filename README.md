@@ -1,4 +1,4 @@
-# PersonalRAG
+# ChatBot For Support Portal
 
 PersonalRAG is a lightweight Retrieval-Augmented Generation (RAG) chatbot starter that ingests your documents, stores semantic embeddings locally, and serves an interactive CLI for question answering. Use it as-is for internal knowledge assistants or embed its modules inside your own automation.
 
