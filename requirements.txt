@@ -1,0 +1,8 @@
+huggingface-hub
+nltk>=3.8.1
+chromadb>=0.4.22
+sentence-transformers>=2.2.2
+transformers>=4.37.0
+sentencepiece>=0.1.99
+torch>=2.1.0
+openai>=1.12.0
